@@ -402,6 +402,9 @@ body {
     padding: 10% 0;
     margin: 0 auto;
   }
+  .mission {
+    z-index: 1;
+    }
   .service-content_inner {
     width: 60%;
     left: 10%;
